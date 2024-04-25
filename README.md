@@ -1,7 +1,4 @@
--  pards here
 -  goty 2050 creator
--  in the process of learning to develop games in the unity engine
--  i'm looking to collaborate on sum game makin
 -  @pardinator on discord
 
 <!---
